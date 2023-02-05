@@ -1,8 +1,7 @@
-
 package com.mycompany.ejercicio2;
 
 public class ModeloAnimal {
-    
+
     private int patas;
     private String nariz;
     private String orejas;
@@ -48,6 +47,5 @@ public class ModeloAnimal {
     public void setCola(Boolean cola) {
         this.cola = cola;
     }
-    
-    
+
 }
